@@ -73,7 +73,7 @@ https://shields.io/#styles
   <a align="center" href="https://cafecito.app/paulafarias"><img width="20%" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg"></a> or <a href="https://www.buymeacoffee.com/paulafarias" align="center"> <img width="20%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/buy_me_a_pizza.png?raw=true"></a>
 </p>
 
-## Let's Connect :handshake:
+## Let's get in touch :handshake:
 <a href="https://www.linkedin.com/in/paulafarias/"><img align="center" width="20%" src="https://img.shields.io/badge/-Paula%20Farias-blue?style=social&logo=Linkedin&logoColor=blue"></a> 
 
 <br>
