@@ -67,7 +67,7 @@ https://shields.io/#styles
 ## If you want to contribute, you can buy me a coffee :coffee: or a pizza :pizza:!
 
 <p align="center">
-  <a align="center" href="https://cafecito.app/paulafarias"><img width="20%" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg"></a> or <a align="center"> <img width="20%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/buy_me_a_pizza.png?raw=true"></a>
+  <a align="center" href="https://cafecito.app/paulafarias"><img width="20%" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg"></a> or <a href="https://www.buymeacoffee.com/paulafarias" align="center"> <img width="20%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/buy_me_a_pizza.png?raw=true"></a>
 </p>
 
 ## Let's Connect :handshake:
