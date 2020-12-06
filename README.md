@@ -5,12 +5,12 @@ https://shields.io/#styles
 <img align="right" src="https://badges.pufler.dev/updated/pauladanielafarias/pauladanielafarias?style=social&logo=github"> <img align="right" src="https://badges.pufler.dev/visits/pauladanielafarias/pauladanielafarias?style=social&logo=github"> <a src="https://github.com/pauladanielafarias/?tab=follow"><img align="right" src="https://img.shields.io/github/followers/pauladanielafarias?label=Follow%20me&style=social"></a> 
 
 
-# Hi there I'm Paula <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there I'm Paula! <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About me
+- :woman_technologist: I'm a Full Stack Developer Junior 
+- :dna: I am studing Biotechnology
 - :argentina: I'm from Argentina
-- :woman_technologist: I am a full stack developer junior 
-- :dna: I'm studing Biotechnology
 - :test_tube: Love science 
 - :popcorn: I enjoy watching series and movies, the last series I watched was The Queen's Gambit (great 10/10)
 - :smile: 90% of the time I answer messages with memes, that's why at the end of this readme you're gonna find a surprise
