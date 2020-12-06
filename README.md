@@ -22,10 +22,10 @@ https://shields.io/#styles
   <!-- Your github readme stats
   You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
-  <img align="right" src="https://badges.pufler.dev/years/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"> <img  align="right" src="https://badges.pufler.dev/commits/monthly/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"> <img align="right" src="https://badges.pufler.dev/repos/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"> 
+  <a href="https://github.com/pauladanielafarias/repositories"> <img align="right" src="https://badges.pufler.dev/years/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a> <a href="https://github.com/pauladanielafarias/repositories"><img align="right" src="https://badges.pufler.dev/commits/monthly/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a> <a href="https://github.com/pauladanielafarias/repositories"><img align="right" src="https://badges.pufler.dev/repos/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a>
   <br>
   
-  <img height="160vh" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauladanielafarias&layout=compact&langs_count=6">
+  <a href="https://github.com/pauladanielafarias/repositories"><img height="160vh" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauladanielafarias&layout=compact&langs_count=6"></a>
   <!--<img height="160vh" width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pauladanielafarias&show_icons=true&theme=material-palenight&hide=issues,contribs,prs&count_private=true&include_all_commits=true">-->
   
   <!-- 
