@@ -2,8 +2,7 @@
 You can use the website to generate badges: https://shields.io/
 https://shields.io/#styles
 -->
-<img align="right" src="https://badges.pufler.dev/updated/pauladanielafarias/pauladanielafarias?style=social&color=purple&logo=github">
- <img align="right" src="https://badges.pufler.dev/visits/pauladanielafarias/pauladanielafarias?style=social&color=purple&logo=github"> <a src="https://github.com/pauladanielafarias/?tab=follow"><img align="right" src="https://img.shields.io/github/followers/pauladanielafarias?label=Follow&style=social"></a> 
+<img align="right" src="https://badges.pufler.dev/updated/pauladanielafarias/pauladanielafarias?style=social&logo=github"> <img align="right" src="https://badges.pufler.dev/visits/pauladanielafarias/pauladanielafarias?style=social&logo=github"> <a src="https://github.com/pauladanielafarias/?tab=follow"><img align="right" src="https://img.shields.io/github/followers/pauladanielafarias?label=Follow%20me&style=social"></a> 
 
 
 # Hi there :wave: I'm Paula 
@@ -76,7 +75,7 @@ https://shields.io/#styles
 
 <br>
 
-### Here is a random meme for you, to make your day better
+### Here's a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme :wink:*)
 
 Credits: [Tushar Mittal](https://github.com/techytushar/techytushar/blob/master/README.md)
