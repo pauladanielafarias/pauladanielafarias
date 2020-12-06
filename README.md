@@ -14,6 +14,7 @@ https://shields.io/#styles
 - :popcorn: I enjoy watching series and movies, the last series I watched was The Queen's Gambit (great 10/10)
 - :smile: 90% of the time I answer messages with memes, that's why at the end of this readme you're gonna find a surprise
 
+<br>
 
 ## Technologies & tools 
 <p>
@@ -65,8 +66,9 @@ https://shields.io/#styles
 
 ## If you want to contribute, you can buy me a coffee :coffee: or a pizza :pizza:!
 
-<a href="https://cafecito.app/paulafarias"><img align="center" width="20%" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg"></a> or <a> <img align="center" width="20%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/buy_me_a_pizza.png?raw=true"></a>
-
+<p align="center">
+  <a align="center" href="https://cafecito.app/paulafarias"><img width="20%" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg"></a> or <a align="center"> <img width="20%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/buy_me_a_pizza.png?raw=true"></a>
+</p>
 
 ## Let's Connect :handshake:
 <a href="https://www.linkedin.com/in/paulafarias/"><img align="center" width="20%" src="https://img.shields.io/badge/-Paula%20Farias-blue?style=social&logo=Linkedin&logoColor=blue"></a> 
