@@ -82,4 +82,3 @@ https://shields.io/#styles
 Credits: [Tushar Mittal](https://github.com/techytushar/techytushar/blob/master/README.md)
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
- 
