@@ -35,7 +35,7 @@ https://pufler.dev/git-badges/
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3.jpg?raw=true"></code>
+  <code><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3.jpg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>-->
@@ -71,7 +71,7 @@ https://pufler.dev/git-badges/
 ## If you want to contribute, you can buy me a coffee :coffee: or a pizza :pizza:!
 
 <p align="center">
-  <a align="center" href="https://cafecito.app/paulafarias"><img width="20%" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg"></a> or <a href="https://www.buymeacoffee.com/paulafarias" align="center"> <img width="20%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/buy_me_a_pizza.png?raw=true"></a>
+  <a align="center" href="https://cafecito.app/paulafarias"><img width="20%" src="https://cdn.cafecito.app/imgs/buttons/button_3.svg"></a> or <a href="https://www.buymeacoffee.com/paulafarias" align="center"> <img width="20%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/buy_me_a_pizza.png"></a>
 </p>
 
 ## Let's get in touch :handshake:
