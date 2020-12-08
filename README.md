@@ -1,6 +1,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 https://shields.io/#styles
+https://pufler.dev/git-badges/
 -->
 <a href="https://github.com/pauladanielafarias"><img align="right" src="https://badges.pufler.dev/updated/pauladanielafarias/pauladanielafarias?style=social&logo=github"></a> 
 <a href="https://github.com/pauladanielafarias"><img align="right" src="https://badges.pufler.dev/visits/pauladanielafarias/pauladanielafarias?style=social&logo=github"></a> 
