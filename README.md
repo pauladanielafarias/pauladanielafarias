@@ -13,7 +13,7 @@ https://pufler.dev/git-badges/
 - :dna: I am studing Biotechnology
 - :argentina: I'm from Argentina
 - :test_tube: Love science 
-- :popcorn: I enjoy watching series and movies, the last series I watched was The Queen's Gambit (great 10/10)
+- :popcorn: I enjoy watching series and movies, the last series I watched was Alice in Borderland (great 10/10)
 - :smile: 90% of the time I answer messages with memes, that's why at the end of this readme you're gonna find a surprise
 
 <br>
