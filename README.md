@@ -9,7 +9,7 @@ https://pufler.dev/git-badges/
 # Hey there I'm Paula! <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About me
-- :woman_technologist: I'm a Full Stack Developer Junior 
+- :woman_technologist: I'm a Developer Data & AI Junior 
 - :dna: I am studing Biotechnology
 - :argentina: I'm from Argentina
 - :test_tube: Love science 
