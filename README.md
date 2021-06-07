@@ -9,11 +9,11 @@ https://pufler.dev/git-badges/
 # Hey there I'm Paula! <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About me
-- :woman_technologist: I'm a Developer Data & AI Junior 
+- :woman_technologist: I'm a Data & AI Developer
 - :dna: I am studing Biotechnology
 - :argentina: I'm from Argentina
 - :test_tube: Love science 
-- :popcorn: I enjoy watching series and movies, the last series I watched was Alice in Borderland (great 10/10)
+- :popcorn: I enjoy watching series and movies, one of the last series I watched was Alice in Borderland (great 10/10)
 - :smile: 90% of the time I answer messages with memes, that's why at the end of this readme you're gonna find a surprise
 
 <br>
