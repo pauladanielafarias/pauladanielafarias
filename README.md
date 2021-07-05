@@ -3,7 +3,7 @@ You can use the website to generate badges: https://shields.io/
 https://shields.io/#styles
 https://pufler.dev/git-badges/
 -->
-<a href="https://github.com/pauladanielafarias"><img alt="GitHub last commit" align="right" src="https://img.shields.io/github/last-commit/pauladanielafarias/estudio-esteban-asociados?style=social&logo=github&label=Updated"></a> <a href="https://github.com/pauladanielafarias"><img alt="Visits" align="right" src="https://badges.pufler.dev/visits/pauladanielafarias/pauladanielafarias?style=social&logo=github"></a> <a href="https://github.com/pauladanielafarias/?tab=follow"><img alt="Follow me in GitHub" align="right" src="https://img.shields.io/github/followers/pauladanielafarias?label=Follow%20me&style=social"></a> 
+<a href="https://github.com/pauladanielafarias"><img alt="GitHub last commit" align="right" src="https://img.shields.io/github/last-commit/pauladanielafarias/pauladanielafarias?style=social&logo=github&label=Updated"></a> <a href="https://github.com/pauladanielafarias"><img alt="Visits" align="right" src="https://badges.pufler.dev/visits/pauladanielafarias/pauladanielafarias?style=social&logo=github"></a> <a href="https://github.com/pauladanielafarias/?tab=follow"><img alt="Follow me in GitHub" align="right" src="https://img.shields.io/github/followers/pauladanielafarias?label=Follow%20me&style=social"></a> 
 
 
 # Hey there I'm Paula! <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -23,7 +23,7 @@ https://pufler.dev/git-badges/
   <!-- Your github readme stats
   You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
-  <a href="https://github.com/pauladanielafarias/repositories"> <img alt="Years in GitHub" align="right" src="https://badges.pufler.dev/years/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a> <a href="https://github.com/pauladanielafarias/repositories"><img alt="Monthly commits in GitHub" align="right" src="https://badges.pufler.dev/commits/monthly/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a> <a href="https://github.com/pauladanielafarias/repositories"><img alt="Repositories in GitHub" align="right" src="https://badges.pufler.dev/repos/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a>
+  <a href="https://github.com/pauladanielafarias/"> <img alt="Years in GitHub" align="right" src="https://badges.pufler.dev/years/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a> <a href="https://github.com/pauladanielafarias/"><img alt="Monthly commits in GitHub" align="right" src="https://badges.pufler.dev/commits/monthly/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a> <a href="https://github.com/pauladanielafarias?tab=repositories"><img alt="Repositories in GitHub" align="right" src="https://badges.pufler.dev/repos/pauladanielafarias?style=flat&color=purple&logo=github&logoColor=black&labelColor=FBFBFB"></a>
   <br>
   
   <a href="https://github.com/pauladanielafarias/repositories"><img height="160vh" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauladanielafarias&layout=compact&langs_count=6"></a>
@@ -34,9 +34,9 @@ https://pufler.dev/git-badges/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3.jpg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>-->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
   <!--<code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>-->
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
