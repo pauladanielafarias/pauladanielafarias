@@ -32,39 +32,40 @@ https://pufler.dev/git-badges/
   <!-- 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <a href='https://html.spec.whatwg.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
-  <a href='https://en.wikipedia.org/wiki/CSS'><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3-logo.png"></a>
-  <a href='https://getbootstrap.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
-  <a href='https://www.javascript.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
-  <a href='https://jquery.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a>
-  <!--<a href=''><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a>-->
+  <a href='https://html.spec.whatwg.org/'><img width="10%" alt='HTML5' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
+  <a href='https://en.wikipedia.org/wiki/CSS'><img width="10%" alt='CSS3' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3-logo.png"></a>
+  <a href='https://getbootstrap.com/'><img width="10%" alt='Bootstrap' src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
+  <a href='https://www.javascript.com/'><img width="10%" alt='JavaScript' src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
+  <a href='https://jquery.com/'><img width="10%" alt='jQuery' src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a>
+  <!--<a href=''><img width="10%" alt='YAML' src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a>-->
 
-  <a href='https://nodejs.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a>
-  <a href='https://www.java.com/en/'><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
-  <a href='https://www.php.net/'><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
-  <a href='https://www.python.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-  <a href='https://www.json.org/json-en.html'><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
+  <a href='https://nodejs.org/'><img width="10%" alt='Node.js' src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a>
+  <a href='https://www.java.com/en/'><img width="10%" alt='Java' src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
+  <a href='https://www.php.net/'><img width="10%" alt='PHP' src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
+  <a href='https://www.python.org/'><img width="10%" alt='Python' src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
+  <a href='https://www.json.org/json-en.html'><img width="10%" alt='JSON' src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
 
-  <a href='https://git-scm.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
-  <a href='https://github.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>
-  <a href='https://www.mysql.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-  <a href='https://www.phpmyadmin.net/'><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a>
+  <a href='https://git-scm.com/'><img width="10%" alt='Git' src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
+  <a href='https://github.com/'><img width="10%" alt='GitHub' src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>
+  <a href='https://www.mysql.com/'><img width="10%" alt='MySQL' src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+  <a href='https://www.phpmyadmin.net/'><img width="10%" alt='PHPmyAdmin' src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a>
+  <a href='https://firebase.google.com/'><img width="10%" alt='Firebase' src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
 
-
-  <a href='https://www.ibm.com/cloud'><img width="10%" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></a> 
-  <a href='https://www.ibm.com/watson'><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/IBMWatson2.png"></a> 
-  <a href='https://www.linux.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
-  <a href='https://www.redhat.com/en'><img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></a>
-  <a href='https://www.docker.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
-  <!--<a><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a>-->
+  <a href='https://www.ibm.com/cloud'><img width="10%" alt='IBM Cloud' src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></a> 
+  <a href='https://www.ibm.com/watson'><img width="10%" alt='IBM Watson AI' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/IBMWatson2.png"></a>
+  <a href='https://cloud.google.com/'><img width="10%" alt='Google Cloud Platform' src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a> 
+  
+  <a href='https://www.linux.org/'><img width="10%" alt='Linux' src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
+  <a href='https://www.redhat.com/en'><img width="10%" alt='Redhat' src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></a>
+  <a href='https://www.docker.com/'><img width="10%" alt='Docker' src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
+  <a><img width="10%" alt='Kubernetes' src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a>
 
   
-  <a href='https://firebase.google.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
-  <a href='https://www.atlassian.com/software/jira'><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a>
-  <a href='https://slack.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></a>
-  <a href='https://code.visualstudio.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
-  <a href='https://jupyter.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a>
-  <!--<a href=''><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a>-->
+  <a href='https://www.atlassian.com/software/jira'><img width="10%" alt='Jira' src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a>
+  <a href='https://slack.com/'><img width="10%" alt='Slack' src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></a>
+  <a href='https://code.visualstudio.com/'><img width="10%" alt='Visual Studio Code' src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
+  <a href='https://jupyter.org/'><img width="10%" alt='Jupyter Notebooks' src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a>
+  <!--<a href=''><img width="10%" alt='Netlify' src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a>-->
   
 </p>
 
