@@ -60,6 +60,7 @@ https://pufler.dev/git-badges/
 
   
   <a href='https://firebase.google.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
+  <a href='https://www.atlassian.com/software/jira'><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a>
   <a href='https://slack.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></a>
   <a href='https://code.visualstudio.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
   <a href='https://jupyter.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a>
