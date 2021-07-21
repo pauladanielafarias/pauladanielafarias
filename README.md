@@ -33,7 +33,7 @@ https://pufler.dev/git-badges/
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <a href='https://html.spec.whatwg.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
-  <a href='https://en.wikipedia.org/wiki/CSS'><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3.svg"></a>
+  <a href='https://en.wikipedia.org/wiki/CSS'><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css.svg"></a>
   <a href='https://getbootstrap.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
   <a href='https://www.javascript.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
   <a href='https://jquery.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a>
