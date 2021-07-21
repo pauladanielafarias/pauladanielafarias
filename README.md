@@ -33,17 +33,18 @@ https://pufler.dev/git-badges/
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <a href='https://html.spec.whatwg.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
-  <a href='https://en.wikipedia.org/wiki/CSS'><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3.jpg"></a>
+  <a href='https://en.wikipedia.org/wiki/CSS'><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3.png"></a>
   <a href='https://getbootstrap.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
   <a href='https://www.javascript.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
   <a href='https://jquery.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a>
   <!--<a href=''><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a>-->
-  
-  <a href='https://www.json.org/json-en.html'><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
+
+  <a href='https://nodejs.org/'><img width="10%" src="  https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a>
   <a href='https://www.java.com/en/'><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
   <a href='https://www.php.net/'><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
   <a href='https://www.python.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-  
+  <a href='https://www.json.org/json-en.html'><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
+
   <a href='https://git-scm.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
   <a href='https://github.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>
   <a href='https://www.mysql.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
@@ -51,6 +52,7 @@ https://pufler.dev/git-badges/
 
 
   <a href='https://www.ibm.com/cloud'><img width="10%" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></a> 
+  <a href='https://www.ibm.com/watson'><img width="10%" src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/IBMwatson.png"></a> 
   <a href='https://www.linux.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
   <a href='https://www.redhat.com/en'><img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></a>
   <a href='https://www.docker.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
