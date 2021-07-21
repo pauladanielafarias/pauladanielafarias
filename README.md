@@ -33,7 +33,7 @@ https://pufler.dev/git-badges/
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   
-  <h3>Programming Languages</h3>
+  <h5>Programming Languages</h5>
   
   <a href='https://html.spec.whatwg.org/'><img width="10%" alt='HTML5' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
   <a href='https://en.wikipedia.org/wiki/CSS'><img width="10%" alt='CSS3' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3-logo.png"></a>
@@ -49,7 +49,7 @@ https://pufler.dev/git-badges/
   <a href='https://www.json.org/json-en.html'><img width="10%" alt='JSON' src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
 
   
-  <h3>Version control & DBs</h3>
+  <h5>Version control & DBs</h5>
 
   <a href='https://git-scm.com/'><img width="10%" alt='Git' src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
   <a href='https://github.com/'><img width="10%" alt='GitHub' src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>
@@ -58,14 +58,14 @@ https://pufler.dev/git-badges/
   <a href='https://firebase.google.com/'><img width="10%" alt='Firebase' src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
 
   
-  <h3>Cloud & AI</h3>
+  <h5>Cloud & AI</h5>
 
   <a href='https://www.ibm.com/cloud'><img width="10%" alt='IBM Cloud' src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></a> 
   <a href='https://www.ibm.com/watson'><img width="10%" alt='IBM Watson AI' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/IBMWatson2.png"></a>
   <a href='https://cloud.google.com/'><img width="10%" alt='Google Cloud Platform' src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a> 
   
   
-  <h3>Infrastructure & OS</h3>
+  <h5>Infrastructure & OS</h5>
 
   <a href='https://www.linux.org/'><img width="10%" alt='Linux' src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
   <a href='https://www.redhat.com/en'><img width="10%" alt='Redhat' src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></a>
@@ -73,7 +73,7 @@ https://pufler.dev/git-badges/
   <a><img width="10%" alt='Kubernetes' src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a>
 
   
-  <h3>Programming Tools</h3>
+  <h5>Programming Tools</h5>
 
   <a href='https://www.atlassian.com/software/jira'><img width="10%" alt='Jira' src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a>
   <a href='https://slack.com/'><img width="10%" alt='Slack' src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></a>
