@@ -39,7 +39,7 @@ https://pufler.dev/git-badges/
   <a href='https://jquery.com/'><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a>
   <!--<a href=''><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a>-->
 
-  <a href='https://nodejs.org/'><img width="10%" src="  https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a>
+  <a href='https://nodejs.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a>
   <a href='https://www.java.com/en/'><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
   <a href='https://www.php.net/'><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
   <a href='https://www.python.org/'><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
