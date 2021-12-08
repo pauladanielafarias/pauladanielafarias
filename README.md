@@ -50,7 +50,7 @@ https://pufler.dev/git-badges/
   <a href='https://www.php.net/'><img width="10%" alt='PHP' src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
   <a href='https://www.python.org/'><img width="10%" alt='Python' src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
   <a href='https://www.json.org/json-en.html'><img width="10%" alt='JSON' src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
-  <a href='https://www.cplusplus.com/'><img width="7%" alt='C++' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/c++.svg"></a>
+  <a href='https://www.cplusplus.com/'><img width="5%" alt='C++' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/c++.svg"></a>
 
   
   <h5>Version control & DBs</h5>
@@ -77,7 +77,7 @@ https://pufler.dev/git-badges/
   <a href='https://kubernetes.io/'><img width="10%" alt='Kubernetes' src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a>
 
   <h5>Dev Tools</h5>
-  <a href='https://nodered.org/'><img width="10%" alt='Node-RED' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/node-red.svg"></a>
+  <a href='https://nodered.org/'><img width="5%" alt='Node-RED' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/node-red.svg"></a>
   <a href='https://jupyter.org/'><img width="10%" alt='Jupyter Notebooks' src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a>
   <a href='https://www.postman.com/'><img width="10%" alt='Postman' src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a>
   <a href='https://code.visualstudio.com/'><img width="10%" alt='Visual Studio Code' src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
