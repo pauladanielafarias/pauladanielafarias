@@ -33,20 +33,25 @@ https://pufler.dev/git-badges/
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   
-  <h5>Programming Languages</h5>
+  <h5>Front-end</h5>
   
   <a href='https://html.spec.whatwg.org/'><img width="10%" alt='HTML5' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
   <a href='https://en.wikipedia.org/wiki/CSS'><img width="10%" alt='CSS3' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/css3-logo.png"></a>
   <a href='https://getbootstrap.com/'><img width="10%" alt='Bootstrap' src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
+  
+  <h5>Programming Languages and Libraries</h5>
+  
   <a href='https://www.javascript.com/'><img width="10%" alt='JavaScript' src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
   <a href='https://jquery.com/'><img width="10%" alt='jQuery' src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a>
-  <!--<a href=''><img width="10%" alt='YAML' src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a>-->
-
   <a href='https://nodejs.org/'><img width="10%" alt='Node.js' src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a>
   <a href='https://www.java.com/en/'><img width="10%" alt='Java' src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
+
+  <!--<a href=''><img width="10%" alt='YAML' src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a>-->
+
   <a href='https://www.php.net/'><img width="10%" alt='PHP' src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
   <a href='https://www.python.org/'><img width="10%" alt='Python' src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
   <a href='https://www.json.org/json-en.html'><img width="10%" alt='JSON' src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
+  <a href='https://www.cplusplus.com/'><img width="10%" alt='C++' src=""https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/c++.svg"></a>
 
   
   <h5>Version control & DBs</h5>
@@ -70,17 +75,25 @@ https://pufler.dev/git-badges/
   <a href='https://www.linux.org/'><img width="10%" alt='Linux' src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
   <a href='https://www.redhat.com/en'><img width="10%" alt='Redhat' src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></a>
   <a href='https://www.docker.com/'><img width="10%" alt='Docker' src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
-  <a><img width="10%" alt='Kubernetes' src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a>
+  <a href='https://kubernetes.io/'><img width="10%" alt='Kubernetes' src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a>
 
-  
-  <h5>Programming Tools</h5>
-
-  <a href='https://www.atlassian.com/software/jira'><img width="10%" alt='Jira' src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a>
-  <a href='https://slack.com/'><img width="10%" alt='Slack' src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></a>
-  <a href='https://code.visualstudio.com/'><img width="10%" alt='Visual Studio Code' src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
+  <h5>Dev Tools</h5>
+  <a href='https://nodered.org/'><img width="10%" alt='Node-RED' src=""https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/node-red.svg"></a>
   <a href='https://jupyter.org/'><img width="10%" alt='Jupyter Notebooks' src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a>
+  <a href='https://www.postman.com/'><img width="10%" alt='Postman' src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a>
+  <a href='https://code.visualstudio.com/'><img width="10%" alt='Visual Studio Code' src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
+
+
   <!--<a href=''><img width="10%" alt='Netlify' src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a>-->
   
+    
+  <h5>Agile Tools</h5>
+
+  <a href='https://www.atlassian.com/software/jira'><img width="10%" alt='Jira' src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a>
+  <a href='https://trello.com/'><img width="10%" alt='Trello' src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></a>
+  <a href='https://slack.com/'><img width="10%" alt='Slack' src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></a>
+  <a href='https://www.tempo.io/'><img width="10%" alt='Tempo' src="https://www.vectorlogo.zone/logos/tempoio/tempoio-ar21.svg"></a>
+
 </div>
 
 <br>
