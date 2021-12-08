@@ -32,7 +32,6 @@ https://pufler.dev/git-badges/
   <!-- 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  
   <h5>Front-end</h5>
   
   <a href='https://html.spec.whatwg.org/'><img width="10%" alt='HTML5' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
@@ -51,7 +50,7 @@ https://pufler.dev/git-badges/
   <a href='https://www.php.net/'><img width="10%" alt='PHP' src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
   <a href='https://www.python.org/'><img width="10%" alt='Python' src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
   <a href='https://www.json.org/json-en.html'><img width="10%" alt='JSON' src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
-  <a href='https://www.cplusplus.com/'><img width="10%" alt='C++' src=""https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/c++.svg"></a>
+  <a href='https://www.cplusplus.com/'><img width="10%" alt='C++' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/c++.svg"></a>
 
   
   <h5>Version control & DBs</h5>
