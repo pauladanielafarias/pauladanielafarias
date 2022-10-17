@@ -9,8 +9,7 @@ https://pufler.dev/git-badges/
 # Hey there I'm Paula! <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About me
-- :woman_technologist: I'm a Data & AI Developer
-- :dna: I am studing Biotechnology
+- :woman_technologist: I'm a Data & AI Integration Developer
 - :argentina: I'm from Argentina
 - :test_tube: Love science 
 - :popcorn: I enjoy watching series and movies
@@ -34,18 +33,23 @@ https://pufler.dev/git-badges/
   <!-- 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-   <h4>Programming Languages & Libraries</h4>
+ 
+ <h4>Programming Languages & Libraries</h4>
   
   <a href='https://www.javascript.com/'><img width="10%" alt='JavaScript' src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
   <a href='https://nodejs.org/'><img width="10%" alt='Node.js' src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a>
   <a href='https://www.python.org/'><img width="10%" alt='Python' src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-  <a href='https://www.java.com/en/'><img width="10%" alt='Java' src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
+  <a href='https://www.gnu.org/software/bash/'><img width="10%" alt='Bash' src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a>
   
   <a href='https://www.php.net/'><img width="10%" alt='PHP' src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
   <a href=''><img width="10%" alt='YAML' src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a>
   <a href='https://www.json.org/json-en.html'><img width="10%" alt='JSON' src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
-  <a href='https://www.cplusplus.com/'><img width="5%" alt='C++' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/c++.svg"></a>
+  <a href='https://www.java.com/en/'><img width="10%" alt='Java' src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
  
+  <a href='https://pandas.pydata.org/'><img width="10%" alt='pandas' src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png?20200209204934"></a>
+  <a href='https://seaborn.pydata.org/'><img width="10%" alt='seaborn' src="https://github.com/gilbarbara/logos/blob/master/logos/seaborn.svg"></a>
+   
+   <!-- <a href='https://www.cplusplus.com/'><img width="5%" alt='C++' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/c++.svg"></a> -->
  
  <h4>Front-end</h4>
   
@@ -68,6 +72,7 @@ https://pufler.dev/git-badges/
 
   <a href='https://www.ibm.com/cloud'><img width="10%" alt='IBM Cloud' src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></a> 
   <a href='https://www.ibm.com/watson'><img width="10%" alt='IBM Watson AI' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/IBMWatson2.png"></a>
+  <a href='https://www.ibm.com/cloud/functions'><img width="10%" alt='IBM Cloud Functions' src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></a> 
   <a href='https://cloud.google.com/'><img width="10%" alt='Google Cloud Platform' src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a> 
   
   
@@ -79,7 +84,7 @@ https://pufler.dev/git-badges/
   <a href='https://www.docker.com/'><img width="10%" alt='Docker' src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
 
 
-  <h5>Dev Tools</h5>
+  <h4>Dev Tools</h4>
   
   <a href='https://nodered.org/'><img width="5%" alt='Node-RED' src="https://github.com/pauladanielafarias/pauladanielafarias/blob/master/images/node-red.svg"></a>
   <a href='https://jupyter.org/'><img width="10%" alt='Jupyter Notebooks' src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a>
